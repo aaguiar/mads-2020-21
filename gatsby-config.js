@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/mads-2020-21",
   siteMetadata: {
-    title: `Talk A Bit`,
-    description: `Talk A Bit 2021 Website`,
-    author: `@talkabit`,
+    title: `Agile Explained`,
+    description: `Agile in a nutshell`,
+    author: `@aaguiar`,
   },
   plugins: [
     `gatsby-plugin-sharp`,
